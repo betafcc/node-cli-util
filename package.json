@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
+    "@map": "bin/map.js",
     "@replace": "bin/replace.js"
   },
   "scripts": {
