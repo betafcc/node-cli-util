@@ -5,6 +5,7 @@
   "main": "index.js",
   "bin": {
     "@map": "bin/map.js",
+    "@filter": "bin/filter.js",
     "@replace": "bin/replace.js"
   },
   "scripts": {
