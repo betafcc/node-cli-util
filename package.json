@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1",
     "split2": "^2.2.0"
   }
 }
