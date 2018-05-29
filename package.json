@@ -10,6 +10,7 @@
     "@selenium-stdin": "bin/selenium-stdin.js"
   },
   "scripts": {
+    "postinstall": "node scripts/download-chromedriver.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
